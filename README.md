@@ -26,9 +26,9 @@ no bloated desktop environment nonsense.
 └── kitty.conf (kitty terminal config)
 ```
 
-## 🔨 needed packages
+## 🔨 needed packages (automatically installed during install script)
 ```
-sudo pacman -S --needed git kitty i3 polybar feh rofi
+sudo pacman -S --needed git kitty i3 polybar feh rofi maim slop xclip
 ```
 
 ## ⚙️ installation
