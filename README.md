@@ -1,7 +1,7 @@
-# blackframe
+# evergreen-i3
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fd98c6d9-7bf6-487a-98c1-0d5f719b6636" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7b505ddb-67ca-44b4-ae24-a46f71a08629" />
-(terminal apps used: neofetch, cava, cmatrix, tty-clock)
+(terminal apps used: neofetch, cava, cowsay, figlet)
 
 my personal linux rice built around i3wm.  
 no bloated desktop environment nonsense.
