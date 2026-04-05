@@ -1,7 +1,6 @@
 # i3conf
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fd98c6d9-7bf6-487a-98c1-0d5f719b6636" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8a12d65d-733f-49fd-b39c-c10add79599d" />
 
-(terminal apps used: neofetch, cava, cowsay, figlet)
 
 my personal linux rice built around i3wm.  
 no bloated desktop environment nonsense.
